@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  realm-developer:
+    image: realmocean/developer:1.0
+    ports:
+      - "5050:5050"
+    volumes:
+      - ./apps:/src/portal/static/applications
