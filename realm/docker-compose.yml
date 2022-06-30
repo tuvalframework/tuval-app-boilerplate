@@ -1,6 +1,7 @@
 version: "3.9"
 services:
   realm-developer:
+    name: realm_dev_1
     image: realmocean/developer:1.0
     ports:
       - "5050:5050"
