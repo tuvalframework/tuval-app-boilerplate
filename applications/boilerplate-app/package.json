@@ -13,7 +13,7 @@
     "devDependencies": {
         "@tuval/cg": "^0.0.16",
         "@tuval/core": "^0.0.88",
-        "@tuval/forms": "^0.0.12",
+        "@tuval/forms": "^0.0.15",
         "@tuval/graphics": "^0.0.10",
         "css-loader": "^6.7.1",
         "declaration-bundler-webpack-plugin": "^1.0.3",
