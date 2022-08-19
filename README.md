@@ -1,3 +1,4 @@
 # tuval-app-boilerplate
 
-degisti123
+
+@ttttolga adlı hesap ile fork seçeneğini kullandım. Şuanda fork ile oluşturulan repoda değişiklik yapıyorum.
